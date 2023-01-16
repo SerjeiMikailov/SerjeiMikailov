@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Hello my dear, dont worry with you saw here, im just a little mobster.
+Im learning, so... dont expect great things
 
 ### Languages
 [![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)](https://typescriptlang.org)
