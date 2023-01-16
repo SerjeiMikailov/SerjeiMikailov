@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello my dear, dont worry with you saw here, im just a little mobster.
+Hello my dear, dont worry with you saw here
 
 Im learning, so... dont expect great things
 
