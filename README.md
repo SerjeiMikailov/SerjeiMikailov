@@ -2,7 +2,7 @@
 
 Professional Mobster
 
-Im learning, so... dont expect great things
+Im learning, so... don't expect great things
 
 ### Languages
 [![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)](https://typescriptlang.org)
