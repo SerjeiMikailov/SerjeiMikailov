@@ -4,7 +4,7 @@ Professional Mobster
 
 -Student-
 
-Fullstack/Webmaster (nothing about low level...)
+Fullstack/Webmaster (nothing about low level and software currently...)
 
 ### Techs
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts)](https://skills.thijs.gg)
