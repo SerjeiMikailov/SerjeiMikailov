@@ -14,6 +14,6 @@ Currently learning low level languages and Python (YES... i never studied python
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerjeiMikailov&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
