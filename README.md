@@ -2,7 +2,7 @@
 
 Professional Mobster
 
-Don't expect great things
+-Student-
 
 Fullstack/Webmaster (nothing about low level...)
 
