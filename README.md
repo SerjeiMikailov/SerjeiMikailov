@@ -15,7 +15,7 @@ Currently learning low level languages and Python (YES... i never studied python
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Learning...
-[![My Skills](https://skills.thijs.gg/icons?i=py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,c)](https://skills.thijs.gg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerjeiMikailov&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
