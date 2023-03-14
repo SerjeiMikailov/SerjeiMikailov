@@ -2,8 +2,6 @@
 
 Professional Mobster
 
--Student-
-
 Fullstack/Webmaster (nothing about low level and software currently...)
 
 ### Techs
