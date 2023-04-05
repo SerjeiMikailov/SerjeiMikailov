@@ -2,7 +2,15 @@
 
 -----------
 
-Fullstack/Webmaster (nothing about low level and software currently...)
+### A little description about me
+
+- _Currently working more with web_
+- _Decentralized systems enjoyer_
+- _I prefer windows... (you can judge me, i dont care)_
+ 
+**Fullstack/Webmaster (nothing about low level and software currently...)**
+
+-----------
 
 ### Languages
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts)](https://skills.thijs.gg)
