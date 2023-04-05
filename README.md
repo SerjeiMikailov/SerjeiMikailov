@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Professional Mobster
+-----------
 
 Fullstack/Webmaster (nothing about low level and software currently...)
 
@@ -15,3 +15,4 @@ Fullstack/Webmaster (nothing about low level and software currently...)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
