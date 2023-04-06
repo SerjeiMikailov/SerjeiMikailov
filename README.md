@@ -13,13 +13,13 @@
 -----------
 
 ### Languages
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,c)](https://skills.thijs.gg)
 
 ### General
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,react,nodejs,mongodb)](https://skills.thijs.gg)
 
 ### Learning...
-[![My Skills](https://skills.thijs.gg/icons?i=py,c)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,cs)](https://skills.thijs.gg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&layout=compact&theme=dracula&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
