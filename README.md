@@ -8,7 +8,7 @@
 - _Decentralized systems enjoyer_
 - _I prefer windows... (you can judge me, i dont care)_
  
-**Fullstack/Webmaster (nothing about low level and software currently...)**
+**Fullstack/Webmaster (studying software and a little bit about low level...)**
 
 -----------
 
