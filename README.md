@@ -6,7 +6,7 @@
 
 - _Currently studying C#, C++ and Rust_
 - _Decentralized systems enjoyer_
-- _I prefer windows... (you can judge me, i dont care)_
+- _I use windows... (you can judge me, i dont care)_
  
 **Fullstack/Webmaster (studying software and a little bit about low level...)**
 
