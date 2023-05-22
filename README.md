@@ -21,4 +21,4 @@
 ### Learning...
 [![My Skills](https://skills.thijs.gg/icons?i=py,cs,cpp,rust)](https://skills.thijs.gg)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&layout=compact&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&layout=compact&langs_count=3&theme=dracula"/>
