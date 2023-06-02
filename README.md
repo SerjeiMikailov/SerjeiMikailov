@@ -8,7 +8,7 @@
 - _Decentralized systems enjoyer_
 - _I use windows... (you can judge me, i dont care)_
  
-**(studying software and a little bit about low level...)**
+**(studying desktop softwares and a little bit about low level...)**
 
 -----------
 
