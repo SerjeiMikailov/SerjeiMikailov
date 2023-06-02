@@ -4,7 +4,7 @@
 
 ### A little description about me
 
-- _Currently studying C#, C++ and Rust_
+- _Currently studying C++ and Rust_
 - _Decentralized systems enjoyer_
 - _I use windows... (you can judge me, i dont care)_
  
