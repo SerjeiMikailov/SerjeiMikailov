@@ -13,12 +13,12 @@
 -----------
 
 ### Languages
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,c)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,c,cpp)](https://skills.thijs.gg)
 
 ### General
 [![My Skills](https://skills.thijs.gg/icons?i=next,react,nodejs)](https://skills.thijs.gg)
 
 ### Learning...
-[![My Skills](https://skills.thijs.gg/icons?i=py,cs,cpp,rust)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,cs,rust)](https://skills.thijs.gg)
 
 
