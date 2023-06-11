@@ -19,6 +19,6 @@
 [![My Skills](https://skills.thijs.gg/icons?i=next,react,nodejs)](https://skills.thijs.gg)
 
 ### Learning...
-[![My Skills](https://skills.thijs.gg/icons?i=py,cs,rust)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cs,rust)](https://skills.thijs.gg)
 
 
