@@ -15,9 +15,6 @@
 ### Languages
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,c,cpp)](https://skills.thijs.gg)
 
-### General
-[![My Skills](https://skills.thijs.gg/icons?i=next,react,nodejs)](https://skills.thijs.gg)
-
 ### Learning...
 [![My Skills](https://skills.thijs.gg/icons?i=cs,rust)](https://skills.thijs.gg)
 
