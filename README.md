@@ -17,3 +17,7 @@
 
 ### Learning...
 [![My Skills](https://skills.thijs.gg/icons?i=cs,rust)](https://skills.thijs.gg)
+
+-----------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
