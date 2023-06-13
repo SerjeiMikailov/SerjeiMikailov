@@ -17,5 +17,3 @@
 
 ### Learning...
 [![My Skills](https://skills.thijs.gg/icons?i=cs,rust)](https://skills.thijs.gg)
-
-
