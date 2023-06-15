@@ -15,7 +15,7 @@
 ### Sigma Langs that i like
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp)](https://skills.thijs.gg)
 
-### Virgin Langs that i need to know
+### Virgin langs that i also like
 [![My Skills](https://skills.thijs.gg/icons?i=ts,js,rust)](https://skills.thijs.gg)
 
 ----
