@@ -17,3 +17,7 @@
 
 ### Virgin Langs that i need to know
 [![My Skills](https://skills.thijs.gg/icons?i=ts,js,rust)](https://skills.thijs.gg)
+
+----
+
+![sigma](https://github.com/SerjeiMikailov/SerjeiMikailov/assets/75023574/0d983a2b-c006-48b7-ae8c-dbe6bdb4768a)
