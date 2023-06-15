@@ -8,7 +8,7 @@
 - _Decentralized systems enjoyer_
 - _WSL User... (you can judge me, i dont care)_
  
-**(studying desktop softwares and a little bit about low level...)**
+**(studying a little bit about low level...)**
 
 -----------
 
