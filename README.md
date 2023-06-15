@@ -12,12 +12,8 @@
 
 -----------
 
-### Languages
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,c,cpp)](https://skills.thijs.gg)
+### Sigma Langs that i like
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp)](https://skills.thijs.gg)
 
-### Learning...
-[![My Skills](https://skills.thijs.gg/icons?i=cs,rust)](https://skills.thijs.gg)
-
-
-
-
+### Virgin Langs that i need to know
+[![My Skills](https://skills.thijs.gg/icons?i=ts,js,rust)](https://skills.thijs.gg)
