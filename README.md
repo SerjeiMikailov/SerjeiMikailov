@@ -6,7 +6,7 @@
 
 - _Currently studying Rust_
 - _Decentralized systems enjoyer_
-- _I use windows... (you can judge me, i dont care)_
+- _WSL User... (you can judge me, i dont care)_
  
 **(studying desktop softwares and a little bit about low level...)**
 
