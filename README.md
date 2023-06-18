@@ -17,4 +17,3 @@
 
 ### Virgin langs that i also like
 [![My Skills](https://skills.thijs.gg/icons?i=ts,rust)](https://skills.thijs.gg)
-
