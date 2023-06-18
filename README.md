@@ -1,19 +1,24 @@
 ### Hi there 👋
 
------------
+---
 
-### A little description about me
+### 🤔 A little description about me
 
-- _Currently studying Rust_
+- _Intending to make my own OS_
 - _Decentralized systems enjoyer_
 - _WSL User... (you can judge me, i dont care)_
  
-**(studying a little bit about low level...)**
+---
 
------------
+### 👀 What I'm doing now
 
-### Sigma Langs that i like
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp)](https://skills.thijs.gg)
+I'm studying Rust and advanced C++, intending to make some desktop applications.<br>So, as you can imagine, I'm studying a little bit about low level.
 
-### Virgin langs that i also like
-[![My Skills](https://skills.thijs.gg/icons?i=ts,rust)](https://skills.thijs.gg)
+---
+
+### 📚 Languages
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,rust)](https://skills.thijs.gg)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&layout=compact&theme=dracula&langs_count=6count_private=true)](https://github.com/anuraghazra/github-readme-stats)
