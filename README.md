@@ -21,4 +21,4 @@ I'm studying Rust and advanced C++, intending to make some desktop applications.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&layout=compact&theme=dracula&langs_count=6count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&layout=compact&theme=dracula&langs_count=6count_private=false)](https://github.com/anuraghazra/github-readme-stats)
