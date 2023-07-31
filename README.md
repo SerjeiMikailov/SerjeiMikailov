@@ -19,6 +19,3 @@ I'm studying Rust and advanced C++, intending to make some desktop applications.
 ### 📚 Languages
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,rust)](https://skills.thijs.gg)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
