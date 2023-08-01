@@ -6,7 +6,7 @@
 
 - _Intending to make my own OS_
 - _Decentralized systems enjoyer_
-- _WSL User... (you can judge me, i dont care)_
+- _Unusual Arch linux enjoyer..._
  
 ---
 
