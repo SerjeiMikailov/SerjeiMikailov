@@ -12,7 +12,7 @@
 
 ### 👀 What I'm doing now
 
-I'm studying Rust and advanced C++, intending to make some desktop applications.<br>So, as you can imagine, I'm studying a little bit about low level.
+Currently i'm studying low level and coding operating systems in C
 
 ---
 
