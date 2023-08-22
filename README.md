@@ -21,6 +21,5 @@ Currently i'm studying low level and coding operating systems in C
 
 ---
 
-[![stats](https://github-readme-stats.vercel.app/api?username=SerjeiMikailov&show_icons=true&locale=en&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&hide_border=1&layout=compact&theme=dracula&hide=html,eagle,css,vue&title_color=6bbbca)
