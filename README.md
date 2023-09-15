@@ -12,7 +12,7 @@
 
 ### 👀 What I'm doing now
 
-Currently i'm studying low level and coding operating systems in C
+Currently, projects in C and operating systems
 
 ---
 
