@@ -17,7 +17,7 @@ Currently, projects in C and operating systems
 ---
 
 ### 📚 Languages
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,rust)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,ts)](https://skills.thijs.gg)
 
 ---
 
