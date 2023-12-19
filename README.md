@@ -6,7 +6,7 @@
 
 - _Intending to make my own OS_
 - _Decentralized systems enjoyer_
-- _Unusual Arch linux enjoyer..._
+- _GNU/Linux enjoyer..._
  
 ---
 
