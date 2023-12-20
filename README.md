@@ -4,9 +4,9 @@
 
 ### 🤔 A little description about me
 
-- _Intending to make something better than Windows_
+- _Intending to make something better than Windows..._
 - _Decentralized systems enjoyer_
-- _GNU/Linux enjoyer..._
+- _GNU/Linux enjoyer_
  
 ---
 
