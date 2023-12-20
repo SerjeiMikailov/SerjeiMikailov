@@ -4,7 +4,7 @@
 
 ### 🤔 A little description about me
 
-- _Intending to make my own OS_
+- _Intending to make something better than Windows_
 - _Decentralized systems enjoyer_
 - _GNU/Linux enjoyer..._
  
@@ -12,7 +12,7 @@
 
 ### 👀 What I'm doing now
 
-Currently, projects in C and operating systems
+ --> Currently, Operating systems and low level stuff
 
 ---
 
