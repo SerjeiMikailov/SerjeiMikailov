@@ -5,7 +5,7 @@
 ### 🤔 A little description about me
 
 - _Intending to make something better than Windows..._
-- _Decentralized/Open Source systems enjoyer_
+- _Decentralized/Open Source systems enthusiast_
 - _GNU/Linux enjoyer_
  
 ---
