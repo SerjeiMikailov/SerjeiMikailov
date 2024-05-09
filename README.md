@@ -17,8 +17,6 @@
 ---
 
 ### 📚 Languages
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,rust)](https://skills.thijs.gg)
-
 ---
 
 
