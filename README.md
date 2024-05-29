@@ -6,7 +6,7 @@
 
 - _Intending to make something better than Windows..._
 - _Decentralized/Open Source systems enthusiast_
-- _Linux enjoyer_
+- _Linux/BSD enjoyer_
  
 ---
 
