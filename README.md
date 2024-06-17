@@ -7,17 +7,15 @@
 - _Intending to make something better than Windows..._
 - _Decentralized/Open Source systems enthusiast_
 - _Linux/BSD enjoyer_
+- _FreeBSD as workstation_
  
 ---
 
 ### 👀 What I'm doing now
 
- --> Currently, Operating systems and low level stuff
-
+ --> Currently, Operating systems and low level stuff...
+ 
 ---
 
-### 📚 Languages
----
+--> My Sourcehut (where i'm hosting my new projects): https://git.sr.ht/~serjei_mikailov/
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerjeiMikailov&hide_border=1&layout=compact&theme=dracula&hide=html,eagle,css,vue&title_color=6bbbca)
