@@ -17,5 +17,5 @@
  
 ---
 
---> My Sourcehut (where i'm hosting my new projects): https://git.sr.ht/~serjei_mikailov/
+--> My Sourcehut (where i'm hosting my new projects): https://git.sr.ht/~serj/
 
