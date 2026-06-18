@@ -4,10 +4,9 @@
 
 ### 🤔 A little description about me
 
-- _Intending to make something better than Windows..._
+- _I really like electronics and applied systems_
 - _Decentralized/Open Source systems enthusiast_
 - _Linux/BSD enjoyer_
-- _FreeBSD as workstation_
  
 ---
 
