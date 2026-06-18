@@ -13,7 +13,7 @@
 
 ### 👀 What I'm doing now
 
- --> Currently, Operating systems and low level stuff...
+ --> Currently, Embedded systems and electronics stuff...
  
 ---
 
